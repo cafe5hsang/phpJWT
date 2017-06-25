@@ -34,7 +34,7 @@ $user = array(
       'id' => '12321312',
       'name' => 'Phong Tran',
       'username' => 'admin',
-      'password' => '@beautifu1d4y'
+      'password' => '123456'
     );
 
 // result
